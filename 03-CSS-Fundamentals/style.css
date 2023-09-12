@@ -32,6 +32,7 @@ body {
 
 nav {
     font-size: 18px;
+/*    text-align: center; */
 }
 
 article {
@@ -189,6 +190,8 @@ nav a:link {
     margin-right: 30px;
     margin-top: 10px;
     display: inline-block;
+
+ 
 } 
 
 nav a:link:last-child {
@@ -233,6 +236,10 @@ h2::before {
     top: -15px;
     right: -25px;
 }
+
+/* .main-header nav a:link {
+    margin-top: 100px;
+} /*
 
 /* resolving conflicts */
 

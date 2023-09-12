@@ -51,7 +51,12 @@ Fcss-tricks.com/snpippets/html/glyphs
  Iconic Chuck Taylor ankle patch
 
 
+para colocar emoji use ctrl + shift + i ou ctrl + i.
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/border
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+https://stackoverflow.com/questions/9721831/
 
-
+https://www.freeformatter.com/html-validator.html
+https://www.diffchecker.com/
 
