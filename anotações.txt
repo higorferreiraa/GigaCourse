@@ -1,0 +1,57 @@
+três linguagens de front-end Html, Css e Java-script
+
+três linguagens de back-end Node JS, PHP e Python
+
+BLOCK-LEVEL ELEMENTS
+Default elements:
+ 			body, main, header,
+		footer, section, nav, aside, div, h1-h6,
+			p, ul, ol, li, etc.
+With CSS: display: block
+
+INLINE ELEMENTS
+Paddings and margins are applied only
+horizontally (left and right)
+
+Default elements:	
+	 a, img, strong, em,
+	button, etc.
+With CSS: display: inline
+
+
+NORMAL FLOW: Default positioning
+position: relative
+
+    .container {
+	 position: relative;
+ 	background-color: #f7e6c1;
+}
+
+ABSOLUTE POSITIONING: position: absolute
+ 	{
+	 position: absolute;
+ 	top: 100px;
+ 	left: 200px;
+ 	background-color: #f4b33f;
+}
+
+
+<button>add to cart</button>
+
+css-tricks.com/snpippets/html/glyphs
+Chuck Taylor All Star Shoe
+
+Fcss-tricks.com/snpippets/html/glyphs
+
+Fcss-tricks.com/snpippets/html/glyphs
+<strong>
+
+ Lightweight, durable canvas sneaker
+ Lightly padded footbed for added comfort
+ Iconic Chuck Taylor ankle patch
+
+
+
+
+
+
